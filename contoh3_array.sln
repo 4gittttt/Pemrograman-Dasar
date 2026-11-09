@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37827.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contoh3_array", "contoh3_array\contoh3_array.csproj", "{A97F1956-2A21-41B2-B748-8FE6389955DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A97F1956-2A21-41B2-B748-8FE6389955DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97F1956-2A21-41B2-B748-8FE6389955DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97F1956-2A21-41B2-B748-8FE6389955DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97F1956-2A21-41B2-B748-8FE6389955DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8EB9F78-6D77-4230-8023-A3E6AC09432F}
+	EndGlobalSection
+EndGlobal
